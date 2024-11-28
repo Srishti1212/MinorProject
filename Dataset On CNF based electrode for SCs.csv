@@ -1,0 +1,608 @@
+Materials-1,Materials-2,Electrolyte concentration ,Electrolyte,ElectrodeConfiguration,Cell Configuration,Voltagewindow ,Specific surface area ,Pore volume ,Pore size ,Scan rate,Current density,CycleNumber,Capacitance 
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.30,2500,23.55
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.35,2500,22.62
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.40,2500,21.40
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.45,2500,20.80
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.50,2500,20.37
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.55,2500,20.43
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.60,2500,20.35
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.65,2500,20.08
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.70,2500,20.07
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.75,2500,19.81
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.80,2500,19.81
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.85,2500,19.59
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.90,2500,19.54
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,0.95,2500,19.56
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.00,2500,19.27
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.05,2500,19.28
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.10,2500,19.22
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.15,2500,19.01
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.20,2500,19.01
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.25,2500,19.01
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.30,2500,19.04
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.35,2500,18.97
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.40,2500,18.65
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.45,2500,18.74
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.50,2500,18.74
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.55,2500,18.74
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.60,2500,18.74
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.65,2500,18.74
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.70,2500,18.77
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.75,2500,18.74
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.80,2500,18.77
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.85,2500,18.47
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.90,2500,18.47
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,1.95,2500,18.47
+PVDF,Carbon nanofibre,6.00,KOH,three electrode system,Swagelok,1.00,83.00,0.39,5.23,252.50,2.00,2500,18.58
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,1.20,100,94.59
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,1.80,100,91.41
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,2.40,100,89.19
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,3.00,100,87.40
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,3.60,100,85.61
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,4.20,100,84.85
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,4.80,100,83.15
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,5.40,100,82.01
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,6.00,100,80.56
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,6.60,100,79.08
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,7.20,100,78.12
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,7.80,100,77.27
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,8.40,100,76.24
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,9.00,100,74.74
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,9.60,100,73.34
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,10.20,100,72.43
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,10.80,100,71.63
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,11.40,100,70.45
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,12.00,100,69.69
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,12.60,100,69.40
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,13.20,100,68.28
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,13.80,100,67.55
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,14.40,100,66.86
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,15.00,100,66.10
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,15.60,100,64.99
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,16.20,100,64.09
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,16.80,100,63.57
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,17.40,100,62.49
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,18.00,100,61.77
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,18.60,100,61.04
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,19.20,100,60.33
+PAN/Graphene,CNF(PG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,477.15,0.15,5.00,55.00,19.80,100,59.76
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,1.20,100,127.63
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,1.80,100,124.65
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,2.40,100,123.22
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,3.00,100,121.39
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,3.60,100,121.04
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,4.20,100,119.90
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,4.80,100,119.45
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,5.40,100,117.77
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,6.00,100,116.33
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,6.60,100,114.89
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,7.20,100,114.45
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,7.80,100,114.15
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,8.40,100,113.82
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,9.00,100,113.04
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,9.60,100,112.71
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,10.20,100,112.87
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,10.80,100,111.70
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,11.40,100,111.62
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,12.00,100,111.62
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,12.60,100,110.91
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,13.20,100,110.90
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,13.80,100,110.18
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,14.40,100,110.17
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,15.00,100,109.82
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,15.60,100,109.46
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,16.20,100,109.46
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,16.80,100,109.10
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,17.40,100,109.06
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,18.00,100,108.73
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,18.60,100,108.02
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,19.20,100,108.01
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,19.80,100,107.85
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,1.20,100,157.87
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,1.80,100,155.28
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,2.40,100,152.99
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,3.00,100,152.22
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,3.60,100,149.15
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,4.20,100,147.75
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,4.80,100,145.15
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,5.40,100,144.82
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,6.00,100,143.38
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,6.60,100,141.93
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,7.20,100,140.19
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,7.80,100,139.40
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,8.40,100,138.26
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,9.00,100,137.60
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,9.60,100,136.54
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,10.20,100,135.13
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,10.80,100,135.46
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,11.40,100,135.46
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,12.00,100,135.10
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,12.60,100,134.75
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,13.20,100,134.74
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,13.80,100,134.03
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,14.40,100,134.20
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,15.00,100,133.66
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,15.60,100,133.30
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,16.20,100,133.30
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,16.80,100,132.58
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,17.40,100,132.57
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,18.00,100,132.22
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,18.60,100,131.85
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,19.20,100,131.86
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,19.80,100,131.76
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,1.00,100,109.76
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,1.50,100,108.91
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,2.00,100,107.37
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,2.50,100,106.17
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,3.00,100,105.78
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,3.50,100,104.94
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,4.00,100,104.02
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,4.50,100,103.23
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,5.00,100,103.24
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,5.50,100,102.25
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,6.00,100,102.45
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,6.50,100,102.25
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,7.00,100,101.55
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,7.50,100,101.27
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,8.00,100,101.86
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,8.50,100,101.86
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,9.00,100,101.86
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,9.50,100,101.08
+Carbonized,CNF(PMG1000),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,647.47,0.80,6.00,55.00,10.00,100,101.04
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,0.50,100,133.30
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,1.00,100,128.75
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,1.50,100,126.93
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,2.00,100,124.91
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,2.50,100,123.40
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,3.00,100,121.84
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,3.50,100,121.26
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,4.00,100,120.43
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,4.50,100,119.69
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,5.00,100,118.90
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,5.50,100,118.31
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,6.00,100,118.11
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,6.50,100,117.04
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,7.00,100,116.56
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,7.50,100,115.79
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,8.00,100,115.72
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,8.50,100,115.47
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,9.00,100,115.39
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,9.50,100,114.59
+Carbonized,CNF(PMG800),6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,551.32,0.35,10.00,55.00,10.00,100,114.71
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,130.00,1.20,100,141.01
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,1.80,100,137.00
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,2.40,100,132.81
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,3.00,100,129.08
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,3.60,100,127.01
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,4.20,100,124.85
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,4.80,100,121.86
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,5.40,100,119.68
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,6.00,100,117.61
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,6.60,100,114.84
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,7.20,100,113.46
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,7.80,100,110.32
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,8.40,100,107.52
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,9.00,100,105.43
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,9.60,100,102.18
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,10.20,100,99.72
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,10.80,100,98.62
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,11.40,100,97.21
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,12.00,100,96.07
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,12.60,100,94.66
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,13.20,100,93.23
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,13.80,100,91.73
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,14.40,100,90.49
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,15.00,100,89.28
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,15.60,100,87.94
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,16.20,100,86.69
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,16.80,100,85.35
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,17.40,100,83.91
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,18.00,100,82.45
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,18.60,100,81.00
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,19.20,100,79.96
+(B2O3),BCNF-5,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,451.66,1.96,135.00,55.00,19.80,100,78.17
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,1.20,100,163.56
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,1.80,100,160.59
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,2.40,100,157.92
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,3.00,100,155.61
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,3.60,100,152.82
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,4.20,100,150.61
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,4.80,100,147.47
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,5.40,100,145.99
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,6.00,100,143.62
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,6.60,100,141.56
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,7.20,100,139.65
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,7.80,100,136.90
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,8.40,100,134.77
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,9.00,100,133.35
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,9.60,100,130.82
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,10.20,100,128.73
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,10.80,100,127.31
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,11.40,100,126.31
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,12.00,100,125.56
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,12.60,100,124.01
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,13.20,100,123.35
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,13.80,100,122.44
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,14.40,100,121.21
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,15.00,100,120.34
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,15.60,100,119.06
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,16.20,100,118.28
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,16.80,100,117.12
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,17.40,100,116.18
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,18.00,100,115.04
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,18.60,100,114.01
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,19.20,100,112.94
+(B2O3),BCNF-10,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,481.26,2.00,135.00,55.00,19.80,100,111.87
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,1.20,100,181.83
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,1.80,100,179.01
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,2.40,100,176.15
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,3.00,100,174.29
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,3.60,100,170.68
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,4.20,100,167.80
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,4.80,100,164.53
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,5.40,100,162.85
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,6.00,100,160.66
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,6.60,100,158.45
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,7.20,100,156.17
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,7.80,100,154.90
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,8.40,100,153.43
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,9.00,100,152.01
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,9.60,100,149.51
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,10.20,100,147.74
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,10.80,100,147.72
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,11.40,100,147.01
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,12.00,100,146.01
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,12.60,100,145.62
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,13.20,100,144.84
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,13.80,100,144.13
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,14.40,100,143.42
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,15.00,100,142.71
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,15.60,100,141.99
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,16.20,100,141.27
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,16.80,100,140.16
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,17.40,100,139.78
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,18.00,100,138.73
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,18.60,100,138.04
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,19.20,100,137.33
+(B2O3),BCNF-20,6.00,KOH,two symmetric CNF,Symmetric supercapacitor cells,0.50,577.16,2.35,135.00,55.00,19.80,100,135.52
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,0.50,5.50,5000,310.48
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,1.00,5.50,5000,286.00
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,1.50,5.50,5000,271.66
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,2.00,5.50,5000,265.39
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,2.50,5.50,5000,260.25
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,3.00,5.50,5000,255.68
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,3.50,5.50,5000,252.64
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,4.00,5.50,5000,249.14
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,4.50,5.50,5000,245.75
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,5.00,5.50,5000,242.10
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,5.50,5.50,5000,239.08
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,6.00,5.50,5000,235.38
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,6.50,5.50,5000,232.54
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,7.00,5.50,5000,229.20
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,7.50,5.50,5000,226.11
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,8.00,5.50,5000,222.99
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,8.50,5.50,5000,219.86
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,9.00,5.50,5000,216.21
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,9.50,5.50,5000,213.13
+Nypa fruticans (NF) fruit,CNF(NFF-01),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,764.92,0.43,2.23,10.00,5.50,5000,210.06
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,0.50,5.50,5000,420.63
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,1.00,5.50,5000,399.87
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,1.50,5.50,5000,379.07
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,2.00,5.50,5000,361.95
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,2.50,5.50,5000,345.61
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,3.00,5.50,5000,331.73
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,3.50,5.50,5000,320.88
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,4.00,5.50,5000,310.21
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,4.50,5.50,5000,302.00
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,5.00,5.50,5000,295.43
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,5.50,5.50,5000,291.29
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,6.00,5.50,5000,288.23
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,6.50,5.50,5000,285.05
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,7.00,5.50,5000,283.57
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,7.50,5.50,5000,281.98
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,8.00,5.50,5000,280.96
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,8.50,5.50,5000,279.40
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,9.00,5.50,5000,278.36
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,9.50,5.50,5000,276.81
+Nypa fruticans (NF) fruit,CNF(NFF-03),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,1230.05,0.68,2.26,10.00,5.50,5000,276.29
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,0.50,5.50,5000,380.85
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,1.00,5.50,5000,361.52
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,1.50,5.50,5000,344.40
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,2.00,5.50,5000,329.84
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,2.50,5.50,5000,316.63
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,3.00,5.50,5000,304.81
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,3.50,5.50,5000,295.45
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,4.00,5.50,5000,286.34
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,4.50,5.50,5000,279.30
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,5.00,5.50,5000,273.68
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,5.50,5.50,5000,269.07
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,6.00,5.50,5000,265.40
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,6.50,5.50,5000,262.88
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,7.00,5.50,5000,260.24
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,7.50,5.50,5000,257.11
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,8.00,5.50,5000,256.11
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,8.50,5.50,5000,254.03
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,9.00,5.50,5000,251.96
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,9.50,5.50,5000,249.89
+Nypa fruticans (NF) fruit,CNF(NFF-05),1.00,H2SO4,symmetrical two-electrode configuration,Symmetric supercapacitor cells,0.50,995.89,0.55,2.24,10.00,5.50,5000,248.32
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,0.60,5000,71.41
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,1.20,5000,69.39
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,1.80,5000,69.09
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,2.40,5000,67.82
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,3.00,5000,67.73
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,3.60,5000,63.43
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,4.20,5000,60.67
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,4.80,5000,58.19
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,5.40,5000,57.17
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,6.00,5000,56.14
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,6.60,5000,55.47
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,7.20,5000,54.91
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,7.80,5000,54.18
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,8.40,5000,53.42
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,9.00,5000,52.65
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,9.60,5000,51.86
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,10.20,5000,51.30
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,10.80,5000,50.61
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,11.40,5000,49.93
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,12.00,5000,49.19
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,12.60,5000,48.38
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,13.20,5000,47.57
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,13.80,5000,47.28
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,14.40,5000,46.30
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,15.00,5000,45.67
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,15.60,5000,44.91
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,16.20,5000,43.76
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,16.80,5000,43.31
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,17.40,5000,42.58
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,18.00,5000,42.00
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,18.60,5000,41.42
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,19.20,5000,40.28
+PAN,PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1209.10,0.90,10.40,10.00,19.80,5000,39.49
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,0.60,5000,146.14
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,1.20,5000,136.62
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,1.80,5000,133.35
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,2.40,5000,131.20
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,3.00,5000,128.30
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,3.60,5000,126.19
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,4.20,5000,123.80
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,4.80,5000,122.75
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,5.40,5000,121.11
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,6.00,5000,120.34
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,6.60,5000,119.66
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,7.20,5000,118.84
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,7.80,5000,118.07
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,8.40,5000,117.29
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,9.00,5000,116.52
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,9.60,5000,115.62
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,10.20,5000,115.79
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,10.80,5000,114.97
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,11.40,5000,114.97
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,12.00,5000,114.20
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,12.60,5000,114.23
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,13.20,5000,114.19
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,13.80,5000,113.45
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,14.40,5000,113.42
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,15.00,5000,113.42
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,15.60,5000,113.45
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,16.20,5000,112.65
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,16.80,5000,112.65
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,17.40,5000,112.65
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,18.00,5000,111.87
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,18.60,5000,111.87
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,19.20,5000,111.49
+PAN,SPD-PCNF,6.00,KOH,asymmetric electrodes,SPD-PCNF/supercapacitor cells,0.50,1318.90,1.30,14.90,10.00,19.80,5000,111.49
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,1.00,30000,223.40
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,1.50,30000,209.61
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,2.00,30000,193.17
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,2.50,30000,187.71
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,3.00,30000,181.65
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,3.50,30000,178.19
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,4.00,30000,174.71
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,4.50,30000,170.83
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,5.00,30000,166.70
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,5.50,30000,165.00
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,6.00,30000,162.96
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,6.50,30000,160.99
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,7.00,30000,158.76
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,7.50,30000,157.06
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,8.00,30000,154.84
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,8.50,30000,152.61
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,9.00,30000,150.88
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,9.50,30000,148.61
+"Nitrogen, Sulphur",N/S-CNF5,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,144.20,0.33,7.35,105.00,10.00,30000,147.30
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,1.00,30000,214.16
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,1.50,30000,171.51
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,2.00,30000,131.58
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,2.50,30000,126.61
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,3.00,30000,122.16
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,3.50,30000,120.42
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,4.00,30000,118.21
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,4.50,30000,116.13
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,5.00,30000,113.80
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,5.50,30000,112.43
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,6.00,30000,111.15
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,6.50,30000,109.43
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,7.00,30000,108.52
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,7.50,30000,106.69
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,8.00,30000,105.42
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,8.50,30000,103.65
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,9.00,30000,102.76
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,9.50,30000,100.97
+"Nitrogen, Sulphur",N/S-CNF10,6.00,KOH,two-electrode system,CR2032 button-type cells,0.50,35.35,0.18,17.20,105.00,10.00,30000,99.26
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,1.00,2000,168.72
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,1.20,2000,161.95
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,1.40,2000,155.06
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,1.60,2000,148.58
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,1.80,2000,141.95
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,2.00,2000,136.09
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,2.20,2000,132.87
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,2.40,2000,130.18
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,2.60,2000,127.32
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,2.80,2000,124.25
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,3.00,2000,121.82
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,3.20,2000,119.18
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,3.40,2000,116.75
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,3.60,2000,113.75
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,3.80,2000,110.77
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,4.00,2000,108.15
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,4.20,2000,105.93
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,4.40,2000,102.80
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,4.60,2000,100.19
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,4.80,2000,97.60
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,5.00,2000,94.66
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,5.20,2000,92.97
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,5.40,2000,91.82
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,5.60,2000,90.72
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,5.80,2000,89.38
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,6.00,2000,88.07
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,6.20,2000,86.75
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,6.40,2000,85.49
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,6.60,2000,84.17
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,6.80,2000,82.58
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,7.00,2000,81.15
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,7.20,2000,80.09
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,7.40,2000,78.81
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,7.60,2000,77.49
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,7.80,2000,76.36
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,8.00,2000,75.05
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,8.20,2000,73.74
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,8.40,2000,72.41
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,8.60,2000,71.11
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,8.80,2000,69.79
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,9.00,2000,68.45
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,9.20,2000,67.14
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,9.40,2000,66.16
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,9.60,2000,64.81
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,9.80,2000,63.77
+PAN,HPCNF,6.00,KOH,three electrode system,HPCNF/ Supercacitor cell,-0.50,569.40,0.24,1.71,55.00,10.00,2000,62.61
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,0.40,7000,1093.06
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,0.80,7000,1055.84
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,1.20,7000,1026.11
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,1.60,7000,1006.71
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,2.00,7000,988.31
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,2.40,7000,976.02
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,2.80,7000,968.74
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,3.20,7000,955.95
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,3.60,7000,940.19
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,4.00,7000,926.30
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,4.40,7000,907.83
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,4.80,7000,892.91
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.20,7000,879.45
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.60,7000,868.04
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,6.00,7000,861.02
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,6.40,7000,848.22
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,6.80,7000,833.90
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,7.20,7000,822.84
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,7.60,7000,811.11
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,8.00,7000,798.18
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,8.40,7000,791.08
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,8.80,7000,781.23
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,9.20,7000,771.14
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,9.60,7000,761.68
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,140,919.64
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,280,917.87
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,420,917.99
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,560,896.17
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,700,879.66
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,840,863.27
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,980,884.92
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1120,872.47
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1260,870.18
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1400,887.91
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1540,892.78
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1680,885.18
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1820,871.24
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,1960,869.69
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2100,867.23
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2240,865.88
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2380,868.56
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2520,885.81
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2660,896.95
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2800,872.88
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,2940,886.49
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3080,888.46
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3220,861.23
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3360,864.64
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3500,870.45
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3640,882.66
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3780,904.36
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,3920,885.68
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4060,870.67
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4200,885.63
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4340,901.92
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4480,912.14
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4620,910.63
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4760,909.01
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,4900,898.77
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5040,898.88
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5180,893.85
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5320,878.07
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5460,867.13
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5600,849.85
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5740,866.38
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,5880,871.05
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6020,873.08
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6160,871.51
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6300,877.83
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6440,872.89
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6580,849.94
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6720,845.03
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,6860,846.33
+"Ni, Co",NiCoO2@APPy,2.00,KOH,three-electrode system,NiCoO₂@PPy@CNF,0.30,429.60,0.80,6.40,10.00,5.50,7000,843.72
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,1.00,1,6000,127.48
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,1.50,1,6000,111.33
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,2.00,1,6000,90.01
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,2.50,1,6000,87.41
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,3.00,1,6000,84.12
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,3.50,1,6000,81.55
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,4.00,1,6000,79.12
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,4.50,1,6000,76.71
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,5.00,1,6000,73.71
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,5.50,1,6000,70.63
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,6.00,1,6000,67.22
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,6.50,1,6000,63.86
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,7.00,1,6000,59.88
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,7.50,1,6000,57.01
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,8.00,1,6000,53.92
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,8.50,1,6000,50.15
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,9.00,1,6000,47.26
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,9.50,1,6000,43.15
+Lemon grass  (Cymbopogon Citratus),LG-0.5,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,536.00,0.32,2.40,10.00,1,6000,40.20
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,1.00,1,6000,199.50
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,1.50,1,6000,167.28
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,2.00,1,6000,133.53
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,2.50,1,6000,128.19
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,3.00,1,6000,123.79
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,3.50,1,6000,119.70
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,4.00,1,6000,115.76
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,4.50,1,6000,111.85
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,5.00,1,6000,108.76
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,5.50,1,6000,102.72
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,6.00,1,6000,97.65
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,6.50,1,6000,92.27
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,7.00,1,6000,87.20
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,7.50,1,6000,81.81
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,8.00,1,6000,76.73
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,8.50,1,6000,71.36
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,9.00,1,6000,65.63
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,9.50,1,6000,60.29
+Lemon grass  (Cymbopogon Citratus),LG-0.7,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,1694.00,0.96,2.26,10.00,1,6000,54.84
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,1.00,1,6000,155.48
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,1.50,1,6000,136.12
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,2.00,1,6000,113.96
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,2.50,1,6000,109.44
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,3.00,1,6000,103.71
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,3.50,1,6000,98.87
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,4.00,1,6000,94.24
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,4.50,1,6000,89.40
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,5.00,1,6000,83.85
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,5.50,1,6000,80.25
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,6.00,1,6000,76.12
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,6.50,1,6000,72.10
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,7.00,1,6000,68.25
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,7.50,1,6000,64.28
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,8.00,1,6000,59.78
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,8.50,1,6000,55.70
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,9.00,1,6000,51.29
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,9.50,1,6000,46.09
+Lemon grass  (Cymbopogon Citratus),LG-0.9,1.00, H₂SO₄,two-electrode system,LGs waste supercapacitor cells,0.50,795.00,0.47,2.38,10.00,1,6000,42.80
